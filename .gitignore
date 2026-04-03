@@ -1,3 +1,8 @@
 node_modules
 .env
 .expo
+.rork
+expo/
+bun.lock
+*.tsbuildinfo
+dist/
