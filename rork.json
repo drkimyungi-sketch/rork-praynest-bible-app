@@ -1,0 +1,20 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "PrayNest",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "PrayNest",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "PrayNest",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
